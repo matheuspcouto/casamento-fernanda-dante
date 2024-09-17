@@ -7,5 +7,5 @@ export const environment = {
 };
 
 // ng add angular-cli-ghpages ##Se ainda não foi feito nenhum Deploy
-// ng build --base-href="https://matheuspcouto.github.io/Casamento-Fernanda-Dante/"
+// ng build --base-href="https://matheuspcouto.github.io/casamento-fernanda-dante/"
 // npx angular-cli-ghpages --dir=dist/casamento-fernanda-dante

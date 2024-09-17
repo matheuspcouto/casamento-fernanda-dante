@@ -38,8 +38,7 @@
 
 @media (max-width: 450px) {
   .box {
-    width: 300px;
-    margin: 10px;
+    width: 90%;
   }
   .container {
     top: 10px;
